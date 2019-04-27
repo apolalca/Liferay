@@ -1,0 +1,4 @@
+Bundle-Name: sample-friendly-url
+Bundle-SymbolicName: com.github.apolalca.sample.friendlyurl
+Bundle-Version: 1.0.0
+Export-Package: com.github.apolalca.sample.friendlyurl.constants
